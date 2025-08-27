@@ -24,7 +24,7 @@ Using **Python, Pandas, Matplotlib, and Seaborn**, I performed data cleaning, fe
 - Correlation Heatmap → Relationship among risk factors  
 - Grouped Bar Chart → Average risk factor values across disease severity  
 
-### Example Plots  
+## Plots  
 ![Age Category Distribution](images/Age%20Category%20Distribution.png)  
 ![Age Distribution](images/Age%20Distribution.png)  
 ![Average Risk Factor](images/Average%20Risk%20Factor.png)  
@@ -45,6 +45,7 @@ images/ → Exported plots (bar chart, pie charts, heatmap, etc.)
 🎯 Conclusion
 
 This project demonstrates how exploratory data analysis (EDA) on medical datasets can uncover meaningful patterns in patient health data. The findings highlight gender differences, critical risk factor trends, and disease severity progression, offering actionable insights for clinicians and researchers. These insights provide a strong foundation for future predictive modeling, early detection systems, and data-driven healthcare decision-making.
+
 
 
 
