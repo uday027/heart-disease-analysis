@@ -25,11 +25,11 @@ Using **Python, Pandas, Matplotlib, and Seaborn**, I performed data cleaning, fe
 - Grouped Bar Chart → Average risk factor values across disease severity  
 
 ### Example Plots  
-![Age Category Distribution](images/Age Category Distribution.png)  
-![Age Distribution](images/Age Distribution.png)  
-![Average Risk Factor](images/Average Risk Factor.png)  
-![Cholesterol - Age Ratio](images/Cholesterol - Age Ratio.png)  
-![Heart Disease Prevalence by Gender](images/Heart Disease Prevalence by Gender.png)  
+![Age Category Distribution](images/Age%20Category%20Distribution.png)  
+![Age Distribution](images/Age%20Distribution.png)  
+![Average Risk Factor](images/Average%20Risk%20Factor.png)  
+![Cholesterol - Age Ratio](images/Cholesterol%20-%20Age%20Ratio.png)  
+![Heart Disease Prevalence by Gender](images/Heart%20Disease%20Prevalence%20by%20Gender.png)  
 
 ## 🚀 How to Run  
 Clone this repo and install dependencies:  
@@ -44,3 +44,4 @@ images/ → Exported plots (bar chart, pie charts, heatmap, etc.)
 
 🎯 Conclusion
 This project demonstrates how EDA on medical datasets can uncover meaningful patterns in patient data. The insights highlight gender differences, risk factor trends, and severity progression, providing a strong foundation for future predictive modeling and healthcare analytics.
+
