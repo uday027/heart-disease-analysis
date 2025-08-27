@@ -1,0 +1,303 @@
+age,age_category,gender,chest_pain_type,resting_bp,bp_category,cholesterol,chol_category,cholesterol_ratio,fasting_blood_sugar,rest_ecg,max_heart_rate,exercise_angina,st_depression,st_depression_cat,st_slope,num_major_vessels,thalassemia,disease_severity
+67,aged,male,Asymptomatic,160,HTN-2,286,High,4.27,<120,LV hypertrophy,108,Yes,1.5,Moderate,Flat,3,Normal,Moderate
+67,aged,male,Asymptomatic,120,Elevated,229,Modrate,3.42,<120,LV hypertrophy,129,Yes,2.6,Severe,Flat,2,Reversible defect,Mild
+37,adult,male,Non-anginal pain,130,HTN-1,250,High,6.76,<120,Normal,187,No,3.5,Very Severe,Downsloping,0,Normal,No disease
+41,mid-aged,female,Atypical angina,130,HTN-1,204,Modrate,4.98,<120,LV hypertrophy,172,No,1.4,Moderate,Upsloping,0,Normal,No disease
+56,mid-aged,male,Atypical angina,120,Elevated,236,Modrate,4.21,<120,Normal,178,No,0.8,Mild,Upsloping,0,Normal,No disease
+62,aged,female,Asymptomatic,140,HTN-2,268,High,4.32,<120,LV hypertrophy,160,No,3.6,Very Severe,Downsloping,2,Normal,Severe
+57,mid-aged,female,Asymptomatic,120,Elevated,354,High,6.21,<120,Normal,163,Yes,0.6,Mild,Upsloping,0,Normal,No disease
+63,aged,male,Asymptomatic,130,HTN-1,254,High,4.03,<120,LV hypertrophy,147,No,1.4,Moderate,Flat,1,Reversible defect,Moderate
+53,mid-aged,male,Asymptomatic,140,HTN-2,203,Modrate,3.83,>120,LV hypertrophy,155,Yes,3.1,Very Severe,Downsloping,0,Reversible defect,Mild
+57,mid-aged,male,Asymptomatic,140,HTN-2,192,Normal,3.37,<120,Normal,148,No,0.4,Mild,Flat,0,Fixed defect,No disease
+56,mid-aged,female,Atypical angina,140,HTN-2,294,High,5.25,<120,LV hypertrophy,153,No,1.3,Moderate,Flat,0,Normal,No disease
+56,mid-aged,male,Non-anginal pain,130,HTN-1,256,High,4.57,>120,LV hypertrophy,142,Yes,0.6,Mild,Flat,1,Fixed defect,Moderate
+44,mid-aged,male,Atypical angina,120,Elevated,263,High,5.98,<120,Normal,173,No,0.0,No depression,Upsloping,0,Reversible defect,No disease
+52,mid-aged,male,Non-anginal pain,172,HTN-2,199,Normal,3.83,>120,Normal,162,No,0.5,Mild,Upsloping,0,Reversible defect,No disease
+57,mid-aged,male,Non-anginal pain,150,HTN-2,168,Normal,2.95,<120,Normal,174,No,1.6,Moderate,Upsloping,0,Normal,No disease
+48,mid-aged,male,Atypical angina,110,Normal,229,Modrate,4.77,<120,Normal,168,No,1.0,Mild,Downsloping,0,Reversible defect,Mild
+54,mid-aged,male,Asymptomatic,140,HTN-2,239,Modrate,4.43,<120,Normal,160,No,1.2,Moderate,Upsloping,0,Normal,No disease
+48,mid-aged,female,Non-anginal pain,130,HTN-1,275,High,5.73,<120,Normal,139,No,0.2,Mild,Upsloping,0,Normal,No disease
+49,mid-aged,male,Atypical angina,130,HTN-1,266,High,5.43,<120,Normal,171,No,0.6,Mild,Upsloping,0,Normal,No disease
+64,aged,male,Typical angina,110,Normal,211,Modrate,3.3,<120,LV hypertrophy,144,Yes,1.8,Moderate,Flat,0,Normal,No disease
+58,mid-aged,female,Typical angina,150,HTN-2,283,High,4.88,>120,LV hypertrophy,162,No,1.0,Mild,Upsloping,0,Normal,No disease
+58,mid-aged,male,Atypical angina,120,Elevated,284,High,4.9,<120,LV hypertrophy,160,No,1.8,Moderate,Flat,0,Normal,Mild
+58,mid-aged,male,Non-anginal pain,132,HTN-1,224,Modrate,3.86,<120,LV hypertrophy,173,No,3.2,Very Severe,Upsloping,2,Reversible defect,Severe
+60,mid-aged,male,Asymptomatic,130,HTN-1,206,Modrate,3.43,<120,LV hypertrophy,132,Yes,2.4,Severe,Flat,2,Reversible defect,Very Severe
+50,mid-aged,female,Non-anginal pain,120,Elevated,219,Modrate,4.38,<120,Normal,158,No,1.6,Moderate,Flat,0,Normal,No disease
+58,mid-aged,female,Non-anginal pain,120,Elevated,340,High,5.86,<120,Normal,172,No,0.0,No depression,Upsloping,0,Normal,No disease
+66,aged,female,Typical angina,150,HTN-2,226,Modrate,3.42,<120,Normal,114,No,2.6,Severe,Downsloping,0,Normal,No disease
+43,mid-aged,male,Asymptomatic,150,HTN-2,247,High,5.74,<120,Normal,171,No,1.5,Moderate,Upsloping,0,Normal,No disease
+40,adult,male,Asymptomatic,110,Normal,167,Normal,4.18,<120,LV hypertrophy,114,Yes,2.0,Moderate,Flat,0,Reversible defect,Severe
+69,aged,female,Typical angina,140,HTN-2,239,Modrate,3.46,<120,Normal,151,No,1.8,Moderate,Upsloping,2,Normal,No disease
+60,mid-aged,male,Asymptomatic,117,Normal,230,Modrate,3.83,>120,Normal,160,Yes,1.4,Moderate,Upsloping,2,Reversible defect,Moderate
+64,aged,male,Non-anginal pain,140,HTN-2,335,High,5.23,<120,Normal,158,No,0.0,No depression,Upsloping,0,Normal,Mild
+59,mid-aged,male,Asymptomatic,135,HTN-1,234,Modrate,3.97,<120,Normal,161,No,0.5,Mild,Flat,0,Reversible defect,No disease
+44,mid-aged,male,Non-anginal pain,130,HTN-1,233,Modrate,5.3,<120,Normal,179,Yes,0.4,Mild,Upsloping,0,Normal,No disease
+42,mid-aged,male,Asymptomatic,140,HTN-2,226,Modrate,5.38,<120,Normal,178,No,0.0,No depression,Upsloping,0,Normal,No disease
+43,mid-aged,male,Asymptomatic,120,Elevated,177,Normal,4.12,<120,LV hypertrophy,120,Yes,2.5,Severe,Flat,0,Reversible defect,Severe
+57,mid-aged,male,Asymptomatic,150,HTN-2,276,High,4.84,<120,LV hypertrophy,112,Yes,0.6,Mild,Flat,1,Fixed defect,Mild
+55,mid-aged,male,Asymptomatic,132,HTN-1,353,High,6.42,<120,Normal,132,Yes,1.2,Moderate,Flat,1,Reversible defect,Severe
+61,aged,male,Non-anginal pain,150,HTN-2,243,High,3.98,>120,Normal,137,Yes,1.0,Mild,Flat,0,Normal,No disease
+65,aged,female,Asymptomatic,150,HTN-2,225,Modrate,3.46,<120,LV hypertrophy,114,No,1.0,Mild,Flat,3,Reversible defect,Very Severe
+40,adult,male,Typical angina,140,HTN-2,199,Normal,4.97,<120,Normal,178,Yes,1.4,Moderate,Upsloping,0,Reversible defect,No disease
+71,aged,female,Atypical angina,160,HTN-2,302,High,4.25,<120,Normal,162,No,0.4,Mild,Upsloping,2,Normal,No disease
+59,mid-aged,male,Non-anginal pain,150,HTN-2,212,Modrate,3.59,>120,Normal,157,No,1.6,Moderate,Upsloping,0,Normal,No disease
+61,aged,female,Asymptomatic,130,HTN-1,330,High,5.41,<120,LV hypertrophy,169,No,0.0,No depression,Upsloping,0,Normal,Mild
+58,mid-aged,male,Non-anginal pain,112,Normal,230,Modrate,3.97,<120,LV hypertrophy,165,No,2.5,Severe,Flat,1,Reversible defect,Very Severe
+51,mid-aged,male,Non-anginal pain,110,Normal,175,Normal,3.43,<120,Normal,123,No,0.6,Mild,Upsloping,0,Normal,No disease
+50,mid-aged,male,Asymptomatic,150,HTN-2,243,High,4.86,<120,LV hypertrophy,128,No,2.6,Severe,Flat,0,Reversible defect,Very Severe
+65,aged,female,Non-anginal pain,140,HTN-2,417,High,6.42,>120,LV hypertrophy,157,No,0.8,Mild,Upsloping,1,Normal,No disease
+53,mid-aged,male,Non-anginal pain,130,HTN-1,197,Normal,3.72,>120,LV hypertrophy,152,No,1.2,Moderate,Downsloping,0,Normal,No disease
+41,mid-aged,female,Atypical angina,105,Normal,198,Normal,4.83,<120,Normal,168,No,0.0,No depression,Upsloping,1,Normal,No disease
+65,aged,male,Asymptomatic,120,Elevated,177,Normal,2.72,<120,Normal,140,No,0.4,Mild,Upsloping,0,Reversible defect,No disease
+44,mid-aged,male,Asymptomatic,112,Normal,290,High,6.59,<120,LV hypertrophy,153,No,0.0,No depression,Upsloping,1,Normal,Moderate
+44,mid-aged,male,Atypical angina,130,HTN-1,219,Modrate,4.98,<120,LV hypertrophy,188,No,0.0,No depression,Upsloping,0,Normal,No disease
+60,mid-aged,male,Asymptomatic,130,HTN-1,253,High,4.22,<120,Normal,144,Yes,1.4,Moderate,Upsloping,1,Reversible defect,Mild
+54,mid-aged,male,Asymptomatic,124,Elevated,266,High,4.93,<120,LV hypertrophy,109,Yes,2.2,Severe,Flat,1,Reversible defect,Mild
+50,mid-aged,male,Non-anginal pain,140,HTN-2,233,Modrate,4.66,<120,Normal,163,No,0.6,Mild,Flat,1,Reversible defect,Mild
+41,mid-aged,male,Asymptomatic,110,Normal,172,Normal,4.2,<120,LV hypertrophy,158,No,0.0,No depression,Upsloping,0,Reversible defect,Mild
+54,mid-aged,male,Non-anginal pain,125,Elevated,273,High,5.06,<120,LV hypertrophy,152,No,0.5,Mild,Downsloping,1,Normal,No disease
+51,mid-aged,male,Typical angina,125,Elevated,213,Modrate,4.18,<120,LV hypertrophy,125,Yes,1.4,Moderate,Upsloping,1,Normal,No disease
+51,mid-aged,female,Asymptomatic,130,HTN-1,305,High,5.98,<120,Normal,142,Yes,1.2,Moderate,Flat,0,Reversible defect,Moderate
+46,mid-aged,female,Non-anginal pain,142,HTN-2,177,Normal,3.85,<120,LV hypertrophy,160,Yes,1.4,Moderate,Downsloping,0,Normal,No disease
+58,mid-aged,male,Asymptomatic,128,Elevated,216,Modrate,3.72,<120,LV hypertrophy,131,Yes,2.2,Severe,Flat,3,Reversible defect,Mild
+54,mid-aged,female,Non-anginal pain,135,HTN-1,304,High,5.63,>120,Normal,170,No,0.0,No depression,Upsloping,0,Normal,No disease
+54,mid-aged,male,Asymptomatic,120,Elevated,188,Normal,3.48,<120,Normal,113,No,1.4,Moderate,Flat,1,Reversible defect,Moderate
+60,mid-aged,male,Asymptomatic,145,HTN-2,282,High,4.7,<120,LV hypertrophy,142,Yes,2.8,Severe,Flat,2,Reversible defect,Moderate
+60,mid-aged,male,Non-anginal pain,140,HTN-2,185,Normal,3.08,<120,LV hypertrophy,155,No,3.0,Severe,Flat,0,Normal,Mild
+54,mid-aged,male,Non-anginal pain,150,HTN-2,232,Modrate,4.3,<120,LV hypertrophy,165,No,1.6,Moderate,Upsloping,0,Reversible defect,No disease
+59,mid-aged,male,Asymptomatic,170,HTN-2,326,High,5.53,<120,LV hypertrophy,140,Yes,3.4,Very Severe,Downsloping,0,Reversible defect,Moderate
+46,mid-aged,male,Non-anginal pain,150,HTN-2,231,Modrate,5.02,<120,Normal,147,No,3.6,Very Severe,Flat,0,Normal,Mild
+65,aged,female,Non-anginal pain,155,HTN-2,269,High,4.14,<120,Normal,148,No,0.8,Mild,Upsloping,0,Normal,No disease
+67,aged,male,Asymptomatic,125,Elevated,254,High,3.79,>120,Normal,163,No,0.2,Mild,Flat,2,Reversible defect,Severe
+62,aged,male,Asymptomatic,120,Elevated,267,High,4.31,<120,Normal,99,Yes,1.8,Moderate,Flat,2,Reversible defect,Mild
+65,aged,male,Asymptomatic,110,Normal,248,High,3.82,<120,LV hypertrophy,158,No,0.6,Mild,Upsloping,2,Fixed defect,Mild
+44,mid-aged,male,Asymptomatic,110,Normal,197,Normal,4.48,<120,LV hypertrophy,177,No,0.0,No depression,Upsloping,1,Normal,Mild
+65,aged,female,Non-anginal pain,160,HTN-2,360,High,5.54,<120,LV hypertrophy,151,No,0.8,Mild,Upsloping,0,Normal,No disease
+60,mid-aged,male,Asymptomatic,125,Elevated,258,High,4.3,<120,LV hypertrophy,141,Yes,2.8,Severe,Flat,1,Reversible defect,Mild
+51,mid-aged,female,Non-anginal pain,140,HTN-2,308,High,6.04,<120,LV hypertrophy,142,No,1.5,Moderate,Upsloping,1,Normal,No disease
+48,mid-aged,male,Atypical angina,130,HTN-1,245,High,5.1,<120,LV hypertrophy,180,No,0.2,Mild,Flat,0,Normal,No disease
+58,mid-aged,male,Asymptomatic,150,HTN-2,270,High,4.66,<120,LV hypertrophy,111,Yes,0.8,Mild,Upsloping,0,Reversible defect,Severe
+45,mid-aged,male,Asymptomatic,104,Normal,208,Modrate,4.62,<120,LV hypertrophy,148,Yes,3.0,Severe,Flat,0,Normal,No disease
+53,mid-aged,female,Asymptomatic,130,HTN-1,264,High,4.98,<120,LV hypertrophy,143,No,0.4,Mild,Flat,0,Normal,No disease
+39,adult,male,Non-anginal pain,140,HTN-2,321,High,8.23,<120,LV hypertrophy,182,No,0.0,No depression,Upsloping,0,Normal,No disease
+68,aged,male,Non-anginal pain,180,HTN-2,274,High,4.03,>120,LV hypertrophy,150,Yes,1.6,Moderate,Flat,0,Reversible defect,Severe
+52,mid-aged,male,Atypical angina,120,Elevated,325,High,6.25,<120,Normal,172,No,0.2,Mild,Upsloping,0,Normal,No disease
+44,mid-aged,male,Non-anginal pain,140,HTN-2,235,Modrate,5.34,<120,LV hypertrophy,180,No,0.0,No depression,Upsloping,0,Normal,No disease
+47,mid-aged,male,Non-anginal pain,138,HTN-1,257,High,5.47,<120,LV hypertrophy,156,No,0.0,No depression,Upsloping,0,Normal,No disease
+53,mid-aged,female,Non-anginal pain,128,Elevated,216,Modrate,4.08,<120,LV hypertrophy,115,No,0.0,No depression,Upsloping,0,Other,No disease
+53,mid-aged,female,Asymptomatic,138,HTN-1,234,Modrate,4.42,<120,LV hypertrophy,160,No,0.0,No depression,Upsloping,0,Normal,No disease
+51,mid-aged,female,Non-anginal pain,130,HTN-1,256,High,5.02,<120,LV hypertrophy,149,No,0.5,Mild,Upsloping,0,Normal,No disease
+66,aged,male,Asymptomatic,120,Elevated,302,High,4.58,<120,LV hypertrophy,151,No,0.4,Mild,Flat,0,Normal,No disease
+62,aged,female,Asymptomatic,160,HTN-2,164,Normal,2.65,<120,LV hypertrophy,145,No,6.2,Very Severe,Downsloping,3,Reversible defect,Severe
+62,aged,male,Non-anginal pain,130,HTN-1,231,Modrate,3.73,<120,Normal,146,No,1.8,Moderate,Flat,3,Reversible defect,No disease
+44,mid-aged,female,Non-anginal pain,108,Normal,141,Normal,3.2,<120,Normal,175,No,0.6,Mild,Flat,0,Normal,No disease
+63,aged,female,Non-anginal pain,135,HTN-1,252,High,4.0,<120,LV hypertrophy,172,No,0.0,No depression,Upsloping,0,Normal,No disease
+52,mid-aged,male,Asymptomatic,128,Elevated,255,High,4.9,<120,Normal,161,Yes,0.0,No depression,Upsloping,1,Reversible defect,Mild
+59,mid-aged,male,Asymptomatic,110,Normal,239,Modrate,4.05,<120,LV hypertrophy,142,Yes,1.2,Moderate,Flat,1,Reversible defect,Moderate
+60,mid-aged,female,Asymptomatic,150,HTN-2,258,High,4.3,<120,LV hypertrophy,157,No,2.6,Severe,Flat,2,Reversible defect,Severe
+52,mid-aged,male,Atypical angina,134,HTN-1,201,Modrate,3.87,<120,Normal,158,No,0.8,Mild,Upsloping,1,Normal,No disease
+48,mid-aged,male,Asymptomatic,122,Elevated,222,Modrate,4.62,<120,LV hypertrophy,186,No,0.0,No depression,Upsloping,0,Normal,No disease
+45,mid-aged,male,Asymptomatic,115,Normal,260,High,5.78,<120,LV hypertrophy,185,No,0.0,No depression,Upsloping,0,Normal,No disease
+34,adult,male,Typical angina,118,Normal,182,Normal,5.35,<120,LV hypertrophy,174,No,0.0,No depression,Upsloping,0,Normal,No disease
+57,mid-aged,female,Asymptomatic,128,Elevated,303,High,5.32,<120,LV hypertrophy,159,No,0.0,No depression,Upsloping,1,Normal,No disease
+71,aged,female,Non-anginal pain,110,Normal,265,High,3.73,>120,LV hypertrophy,130,No,0.0,No depression,Upsloping,1,Normal,No disease
+49,mid-aged,male,Non-anginal pain,120,Elevated,188,Normal,3.84,<120,Normal,139,No,2.0,Moderate,Flat,3,Reversible defect,Severe
+54,mid-aged,male,Atypical angina,108,Normal,309,High,5.72,<120,Normal,156,No,0.0,No depression,Upsloping,0,Reversible defect,No disease
+59,mid-aged,male,Asymptomatic,140,HTN-2,177,Normal,3.0,<120,Normal,162,Yes,0.0,No depression,Upsloping,1,Reversible defect,Moderate
+57,mid-aged,male,Non-anginal pain,128,Elevated,229,Modrate,4.02,<120,LV hypertrophy,150,No,0.4,Mild,Flat,1,Reversible defect,Mild
+61,aged,male,Asymptomatic,120,Elevated,260,High,4.26,<120,Normal,140,Yes,3.6,Very Severe,Flat,1,Reversible defect,Moderate
+39,adult,male,Asymptomatic,118,Normal,219,Modrate,5.62,<120,Normal,140,No,1.2,Moderate,Flat,0,Reversible defect,Severe
+61,aged,female,Asymptomatic,145,HTN-2,307,High,5.03,<120,LV hypertrophy,146,Yes,1.0,Mild,Flat,0,Reversible defect,Mild
+56,mid-aged,male,Asymptomatic,125,Elevated,249,High,4.45,>120,LV hypertrophy,144,Yes,1.2,Moderate,Flat,1,Normal,Mild
+52,mid-aged,male,Typical angina,118,Normal,186,Normal,3.58,<120,LV hypertrophy,190,No,0.0,No depression,Flat,0,Fixed defect,No disease
+43,mid-aged,female,Asymptomatic,132,HTN-1,341,High,7.93,>120,LV hypertrophy,136,Yes,3.0,Severe,Flat,0,Reversible defect,Moderate
+62,aged,female,Non-anginal pain,130,HTN-1,263,High,4.24,<120,Normal,97,No,1.2,Moderate,Flat,1,Reversible defect,Moderate
+41,mid-aged,male,Atypical angina,135,HTN-1,203,Modrate,4.95,<120,Normal,132,No,0.0,No depression,Flat,0,Fixed defect,No disease
+58,mid-aged,male,Non-anginal pain,140,HTN-2,211,Modrate,3.64,>120,LV hypertrophy,165,No,0.0,No depression,Upsloping,0,Normal,No disease
+35,adult,female,Asymptomatic,138,HTN-1,183,Normal,5.23,<120,Normal,182,No,1.4,Moderate,Upsloping,0,Normal,No disease
+63,aged,male,Asymptomatic,130,HTN-1,330,High,5.24,>120,LV hypertrophy,132,Yes,1.8,Moderate,Upsloping,3,Reversible defect,Severe
+65,aged,male,Asymptomatic,135,HTN-1,254,High,3.91,<120,LV hypertrophy,127,No,2.8,Severe,Flat,1,Reversible defect,Moderate
+48,mid-aged,male,Asymptomatic,130,HTN-1,256,High,5.33,>120,LV hypertrophy,150,Yes,0.0,No depression,Upsloping,2,Reversible defect,Severe
+63,aged,female,Asymptomatic,150,HTN-2,407,High,6.46,<120,LV hypertrophy,154,No,4.0,Very Severe,Flat,3,Reversible defect,Very Severe
+51,mid-aged,male,Non-anginal pain,100,Normal,222,Modrate,4.35,<120,Normal,143,Yes,1.2,Moderate,Flat,0,Normal,No disease
+55,mid-aged,male,Asymptomatic,140,HTN-2,217,Modrate,3.95,<120,Normal,111,Yes,5.6,Very Severe,Downsloping,0,Reversible defect,Severe
+65,aged,male,Typical angina,138,HTN-1,282,High,4.34,>120,LV hypertrophy,174,No,1.4,Moderate,Flat,1,Normal,Mild
+45,mid-aged,female,Atypical angina,130,HTN-1,234,Modrate,5.2,<120,LV hypertrophy,175,No,0.6,Mild,Flat,0,Normal,No disease
+56,mid-aged,female,Asymptomatic,200,Crisis,288,High,5.14,>120,LV hypertrophy,133,Yes,4.0,Very Severe,Downsloping,2,Reversible defect,Severe
+54,mid-aged,male,Asymptomatic,110,Normal,239,Modrate,4.43,<120,Normal,126,Yes,2.8,Severe,Flat,1,Reversible defect,Severe
+44,mid-aged,male,Atypical angina,120,Elevated,220,Modrate,5.0,<120,Normal,170,No,0.0,No depression,Upsloping,0,Normal,No disease
+62,aged,female,Asymptomatic,124,Elevated,209,Modrate,3.37,<120,Normal,163,No,0.0,No depression,Upsloping,0,Normal,No disease
+54,mid-aged,male,Non-anginal pain,120,Elevated,258,High,4.78,<120,LV hypertrophy,147,No,0.4,Mild,Flat,0,Reversible defect,No disease
+51,mid-aged,male,Non-anginal pain,94,Normal,227,Modrate,4.45,<120,Normal,154,Yes,0.0,No depression,Upsloping,1,Reversible defect,No disease
+29,adult,male,Atypical angina,130,HTN-1,204,Modrate,7.03,<120,LV hypertrophy,202,No,0.0,No depression,Upsloping,0,Normal,No disease
+51,mid-aged,male,Asymptomatic,140,HTN-2,261,High,5.12,<120,LV hypertrophy,186,Yes,0.0,No depression,Upsloping,0,Normal,No disease
+43,mid-aged,female,Non-anginal pain,122,Elevated,213,Modrate,4.95,<120,Normal,165,No,0.2,Mild,Flat,0,Normal,No disease
+55,mid-aged,female,Atypical angina,135,HTN-1,250,High,4.55,<120,LV hypertrophy,161,No,1.4,Moderate,Flat,0,Normal,No disease
+70,aged,male,Asymptomatic,145,HTN-2,174,Normal,2.49,<120,Normal,125,Yes,2.6,Severe,Downsloping,0,Reversible defect,Very Severe
+62,aged,male,Atypical angina,120,Elevated,281,High,4.53,<120,LV hypertrophy,103,No,1.4,Moderate,Flat,1,Reversible defect,Severe
+35,adult,male,Asymptomatic,120,Elevated,198,Normal,5.66,<120,Normal,130,Yes,1.6,Moderate,Flat,0,Reversible defect,Mild
+51,mid-aged,male,Non-anginal pain,125,Elevated,245,High,4.8,>120,LV hypertrophy,166,No,2.4,Severe,Flat,0,Normal,No disease
+59,mid-aged,male,Atypical angina,140,HTN-2,221,Modrate,3.75,<120,Normal,164,Yes,0.0,No depression,Upsloping,0,Normal,No disease
+59,mid-aged,male,Typical angina,170,HTN-2,288,High,4.88,<120,LV hypertrophy,159,No,0.2,Mild,Flat,0,Reversible defect,Mild
+52,mid-aged,male,Atypical angina,128,Elevated,205,Modrate,3.94,>120,Normal,184,No,0.0,No depression,Upsloping,0,Normal,No disease
+64,aged,male,Non-anginal pain,125,Elevated,309,High,4.83,<120,Normal,131,Yes,1.8,Moderate,Flat,0,Reversible defect,Mild
+58,mid-aged,male,Non-anginal pain,105,Normal,240,High,4.14,<120,LV hypertrophy,154,Yes,0.6,Mild,Flat,0,Reversible defect,No disease
+47,mid-aged,male,Non-anginal pain,108,Normal,243,High,5.17,<120,Normal,152,No,0.0,No depression,Upsloping,0,Normal,Mild
+57,mid-aged,male,Asymptomatic,165,HTN-2,289,High,5.07,>120,LV hypertrophy,124,No,1.0,Mild,Flat,3,Reversible defect,Very Severe
+41,mid-aged,male,Non-anginal pain,112,Normal,250,High,6.1,<120,Normal,179,No,0.0,No depression,Upsloping,0,Normal,No disease
+45,mid-aged,male,Atypical angina,128,Elevated,308,High,6.84,<120,LV hypertrophy,170,No,0.0,No depression,Upsloping,0,Normal,No disease
+60,mid-aged,female,Non-anginal pain,102,Normal,318,High,5.3,<120,Normal,160,No,0.0,No depression,Upsloping,1,Normal,No disease
+52,mid-aged,male,Typical angina,152,HTN-2,298,High,5.73,>120,Normal,178,No,1.2,Moderate,Flat,0,Reversible defect,No disease
+42,mid-aged,female,Asymptomatic,102,Normal,265,High,6.31,<120,LV hypertrophy,122,No,0.6,Mild,Flat,0,Normal,No disease
+67,aged,female,Non-anginal pain,115,Normal,564,High,8.42,<120,LV hypertrophy,160,No,1.6,Moderate,Flat,0,Reversible defect,No disease
+55,mid-aged,male,Asymptomatic,160,HTN-2,289,High,5.25,<120,LV hypertrophy,145,Yes,0.8,Mild,Flat,1,Reversible defect,Very Severe
+64,aged,male,Asymptomatic,120,Elevated,246,High,3.84,<120,LV hypertrophy,96,Yes,2.2,Severe,Downsloping,1,Normal,Severe
+70,aged,male,Asymptomatic,130,HTN-1,322,High,4.6,<120,LV hypertrophy,109,No,2.4,Severe,Flat,3,Normal,Mild
+51,mid-aged,male,Asymptomatic,140,HTN-2,299,High,5.86,<120,Normal,173,Yes,1.6,Moderate,Upsloping,0,Reversible defect,Mild
+58,mid-aged,male,Asymptomatic,125,Elevated,300,High,5.17,<120,LV hypertrophy,171,No,0.0,No depression,Upsloping,2,Reversible defect,Mild
+60,mid-aged,male,Asymptomatic,140,HTN-2,293,High,4.88,<120,LV hypertrophy,170,No,1.2,Moderate,Flat,2,Reversible defect,Moderate
+68,aged,male,Non-anginal pain,118,Normal,277,High,4.07,<120,Normal,151,No,1.0,Mild,Upsloping,1,Reversible defect,No disease
+46,mid-aged,male,Atypical angina,101,Normal,197,Normal,4.28,>120,Normal,156,No,0.0,No depression,Upsloping,0,Reversible defect,No disease
+77,aged,male,Asymptomatic,125,Elevated,304,High,3.95,<120,LV hypertrophy,162,Yes,0.0,No depression,Upsloping,3,Normal,Very Severe
+54,mid-aged,female,Non-anginal pain,110,Normal,214,Modrate,3.96,<120,Normal,158,No,1.6,Moderate,Flat,0,Normal,No disease
+58,mid-aged,female,Asymptomatic,100,Normal,248,High,4.28,<120,LV hypertrophy,122,No,1.0,Mild,Flat,0,Normal,No disease
+48,mid-aged,male,Non-anginal pain,124,Elevated,255,High,5.31,>120,Normal,175,No,0.0,No depression,Upsloping,2,Normal,No disease
+57,mid-aged,male,Asymptomatic,132,HTN-1,207,Modrate,3.63,<120,Normal,168,Yes,0.0,No depression,Upsloping,0,Reversible defect,No disease
+52,mid-aged,male,Non-anginal pain,138,HTN-1,223,Modrate,4.29,<120,Normal,169,No,0.0,No depression,Upsloping,1,Normal,No disease
+54,mid-aged,female,Atypical angina,132,HTN-1,288,High,5.33,>120,LV hypertrophy,159,Yes,0.0,No depression,Upsloping,1,Normal,No disease
+35,adult,male,Asymptomatic,126,Elevated,282,High,8.06,<120,LV hypertrophy,156,Yes,0.0,No depression,Upsloping,0,Reversible defect,Mild
+45,mid-aged,female,Atypical angina,112,Normal,160,Normal,3.56,<120,Normal,138,No,0.0,No depression,Flat,0,Normal,No disease
+70,aged,male,Non-anginal pain,160,HTN-2,269,High,3.84,<120,Normal,112,Yes,2.9,Severe,Flat,1,Reversible defect,Severe
+53,mid-aged,male,Asymptomatic,142,HTN-2,226,Modrate,4.26,<120,LV hypertrophy,111,Yes,0.0,No depression,Upsloping,0,Reversible defect,No disease
+59,mid-aged,female,Asymptomatic,174,HTN-2,249,High,4.22,<120,Normal,143,Yes,0.0,No depression,Flat,0,Normal,Mild
+62,aged,female,Asymptomatic,140,HTN-2,394,High,6.35,<120,LV hypertrophy,157,No,1.2,Moderate,Flat,0,Normal,No disease
+64,aged,male,Asymptomatic,145,HTN-2,212,Modrate,3.31,<120,LV hypertrophy,132,No,2.0,Moderate,Flat,2,Fixed defect,Very Severe
+57,mid-aged,male,Asymptomatic,152,HTN-2,274,High,4.81,<120,Normal,88,Yes,1.2,Moderate,Flat,1,Reversible defect,Mild
+52,mid-aged,male,Asymptomatic,108,Normal,233,Modrate,4.48,>120,Normal,147,No,0.1,Mild,Upsloping,3,Reversible defect,No disease
+56,mid-aged,male,Asymptomatic,132,HTN-1,184,Normal,3.29,<120,LV hypertrophy,105,Yes,2.1,Severe,Flat,1,Fixed defect,Mild
+43,mid-aged,male,Non-anginal pain,130,HTN-1,315,High,7.33,<120,Normal,162,No,1.9,Moderate,Upsloping,1,Normal,No disease
+53,mid-aged,male,Non-anginal pain,130,HTN-1,246,High,4.64,>120,LV hypertrophy,173,No,0.0,No depression,Upsloping,3,Normal,No disease
+48,mid-aged,male,Asymptomatic,124,Elevated,274,High,5.71,<120,LV hypertrophy,166,No,0.5,Mild,Flat,0,Reversible defect,Severe
+56,mid-aged,female,Asymptomatic,134,HTN-1,409,High,7.3,<120,LV hypertrophy,150,Yes,1.9,Moderate,Flat,2,Reversible defect,Moderate
+42,mid-aged,male,Typical angina,148,HTN-2,244,High,5.81,<120,LV hypertrophy,178,No,0.8,Mild,Upsloping,2,Normal,No disease
+59,mid-aged,male,Typical angina,178,HTN-2,270,High,4.58,<120,LV hypertrophy,145,No,4.2,Very Severe,Downsloping,0,Reversible defect,No disease
+60,mid-aged,female,Asymptomatic,158,HTN-2,305,High,5.08,<120,LV hypertrophy,161,No,0.0,No depression,Upsloping,0,Normal,Mild
+63,aged,female,Atypical angina,140,HTN-2,195,Normal,3.1,<120,Normal,179,No,0.0,No depression,Upsloping,2,Normal,No disease
+42,mid-aged,male,Non-anginal pain,120,Elevated,240,High,5.71,>120,Normal,194,No,0.8,Mild,Downsloping,0,Reversible defect,No disease
+66,aged,male,Atypical angina,160,HTN-2,246,High,3.73,<120,Normal,120,Yes,0.0,No depression,Flat,3,Fixed defect,Moderate
+54,mid-aged,male,Atypical angina,192,Crisis,283,High,5.24,<120,LV hypertrophy,195,No,0.0,No depression,Upsloping,1,Reversible defect,Mild
+69,aged,male,Non-anginal pain,140,HTN-2,254,High,3.68,<120,LV hypertrophy,146,No,2.0,Moderate,Flat,3,Reversible defect,Moderate
+50,mid-aged,male,Non-anginal pain,129,Elevated,196,Normal,3.92,<120,Normal,163,No,0.0,No depression,Upsloping,0,Normal,No disease
+51,mid-aged,male,Asymptomatic,140,HTN-2,298,High,5.84,<120,Normal,122,Yes,4.2,Very Severe,Flat,3,Reversible defect,Severe
+43,mid-aged,male,Asymptomatic,132,HTN-1,247,High,5.74,>120,LV hypertrophy,143,Yes,0.1,Mild,Flat,1,Reversible defect,Mild
+62,aged,female,Asymptomatic,138,HTN-1,294,High,4.74,>120,Normal,106,No,1.9,Moderate,Flat,3,Normal,Moderate
+68,aged,female,Non-anginal pain,120,Elevated,211,Modrate,3.1,<120,LV hypertrophy,115,No,1.5,Moderate,Flat,0,Normal,No disease
+67,aged,male,Asymptomatic,100,Normal,299,High,4.46,<120,LV hypertrophy,125,Yes,0.9,Mild,Flat,2,Normal,Severe
+69,aged,male,Typical angina,160,HTN-2,234,Modrate,3.39,>120,LV hypertrophy,131,No,0.1,Mild,Flat,1,Normal,No disease
+45,mid-aged,female,Asymptomatic,138,HTN-1,236,Modrate,5.24,<120,LV hypertrophy,152,Yes,0.2,Mild,Flat,0,Normal,No disease
+50,mid-aged,female,Atypical angina,120,Elevated,244,High,4.88,<120,Normal,162,No,1.1,Moderate,Upsloping,0,Normal,No disease
+59,mid-aged,male,Typical angina,160,HTN-2,273,High,4.63,<120,LV hypertrophy,125,No,0.0,No depression,Upsloping,0,Normal,Mild
+50,mid-aged,female,Asymptomatic,110,Normal,254,High,5.08,<120,LV hypertrophy,159,No,0.0,No depression,Upsloping,0,Normal,No disease
+64,aged,female,Asymptomatic,180,HTN-2,325,High,5.08,<120,Normal,154,Yes,0.0,No depression,Upsloping,0,Normal,No disease
+57,mid-aged,male,Non-anginal pain,150,HTN-2,126,Normal,2.21,>120,Normal,173,No,0.2,Mild,Upsloping,1,Reversible defect,No disease
+64,aged,female,Non-anginal pain,140,HTN-2,313,High,4.89,<120,Normal,133,No,0.2,Mild,Upsloping,0,Reversible defect,No disease
+43,mid-aged,male,Asymptomatic,110,Normal,211,Modrate,4.91,<120,Normal,161,No,0.0,No depression,Upsloping,0,Reversible defect,No disease
+45,mid-aged,male,Asymptomatic,142,HTN-2,309,High,6.87,<120,LV hypertrophy,147,Yes,0.0,No depression,Flat,3,Reversible defect,Severe
+58,mid-aged,male,Asymptomatic,128,Elevated,259,High,4.47,<120,LV hypertrophy,130,Yes,3.0,Severe,Flat,2,Reversible defect,Severe
+50,mid-aged,male,Asymptomatic,144,HTN-2,200,Modrate,4.0,<120,LV hypertrophy,126,Yes,0.9,Mild,Flat,0,Reversible defect,Severe
+55,mid-aged,male,Atypical angina,130,HTN-1,262,High,4.76,<120,Normal,155,No,0.0,No depression,Upsloping,0,Normal,No disease
+62,aged,female,Asymptomatic,150,HTN-2,244,High,3.94,<120,Normal,154,Yes,1.4,Moderate,Flat,0,Normal,Mild
+37,adult,female,Non-anginal pain,120,Elevated,215,Modrate,5.81,<120,Normal,170,No,0.0,No depression,Upsloping,0,Normal,No disease
+38,adult,male,Typical angina,120,Elevated,231,Modrate,6.08,<120,Normal,182,Yes,3.8,Very Severe,Flat,0,Reversible defect,Very Severe
+41,mid-aged,male,Non-anginal pain,130,HTN-1,214,Modrate,5.22,<120,LV hypertrophy,168,No,2.0,Moderate,Flat,0,Normal,No disease
+66,aged,female,Asymptomatic,178,HTN-2,228,Modrate,3.45,>120,Normal,165,Yes,1.0,Mild,Flat,2,Reversible defect,Severe
+52,mid-aged,male,Asymptomatic,112,Normal,230,Modrate,4.42,<120,Normal,160,No,0.0,No depression,Upsloping,1,Normal,Mild
+56,mid-aged,male,Typical angina,120,Elevated,193,Normal,3.45,<120,LV hypertrophy,162,No,1.9,Moderate,Flat,0,Reversible defect,No disease
+46,mid-aged,female,Atypical angina,105,Normal,204,Modrate,4.43,<120,Normal,172,No,0.0,No depression,Upsloping,0,Normal,No disease
+46,mid-aged,female,Asymptomatic,138,HTN-1,243,High,5.28,<120,LV hypertrophy,152,Yes,0.0,No depression,Flat,0,Normal,No disease
+64,aged,female,Asymptomatic,130,HTN-1,303,High,4.73,<120,Normal,122,No,2.0,Moderate,Flat,2,Normal,No disease
+59,mid-aged,male,Asymptomatic,138,HTN-1,271,High,4.59,<120,LV hypertrophy,182,No,0.0,No depression,Upsloping,0,Normal,No disease
+41,mid-aged,female,Non-anginal pain,112,Normal,268,High,6.54,<120,LV hypertrophy,172,Yes,0.0,No depression,Upsloping,0,Normal,No disease
+54,mid-aged,female,Non-anginal pain,108,Normal,267,High,4.94,<120,LV hypertrophy,167,No,0.0,No depression,Upsloping,0,Normal,No disease
+39,adult,female,Non-anginal pain,94,Normal,199,Normal,5.1,<120,Normal,179,No,0.0,No depression,Upsloping,0,Normal,No disease
+53,mid-aged,male,Asymptomatic,123,Elevated,282,High,5.32,<120,Normal,95,Yes,2.0,Moderate,Flat,2,Reversible defect,Severe
+63,aged,female,Asymptomatic,108,Normal,269,High,4.27,<120,Normal,169,Yes,1.8,Moderate,Flat,2,Normal,Mild
+34,adult,female,Atypical angina,118,Normal,210,Modrate,6.18,<120,Normal,192,No,0.7,Mild,Upsloping,0,Normal,No disease
+47,mid-aged,male,Asymptomatic,112,Normal,204,Modrate,4.34,<120,Normal,143,No,0.1,Mild,Upsloping,0,Normal,No disease
+67,aged,female,Non-anginal pain,152,HTN-2,277,High,4.13,<120,Normal,172,No,0.0,No depression,Upsloping,1,Normal,No disease
+54,mid-aged,male,Asymptomatic,110,Normal,206,Modrate,3.81,<120,LV hypertrophy,108,Yes,0.0,No depression,Flat,1,Normal,Severe
+66,aged,male,Asymptomatic,112,Normal,212,Modrate,3.21,<120,LV hypertrophy,132,Yes,0.1,Mild,Upsloping,1,Normal,Moderate
+52,mid-aged,female,Non-anginal pain,136,HTN-1,196,Normal,3.77,<120,LV hypertrophy,169,No,0.1,Mild,Flat,0,Normal,No disease
+55,mid-aged,female,Asymptomatic,180,HTN-2,327,High,5.95,<120,ST-T Abnormal,117,Yes,3.4,Very Severe,Flat,0,Normal,Moderate
+49,mid-aged,male,Non-anginal pain,118,Normal,149,Normal,3.04,<120,LV hypertrophy,126,No,0.8,Mild,Upsloping,3,Normal,Mild
+74,aged,female,Atypical angina,120,Elevated,269,High,3.64,<120,LV hypertrophy,121,Yes,0.2,Mild,Upsloping,1,Normal,No disease
+54,mid-aged,female,Non-anginal pain,160,HTN-2,201,Modrate,3.72,<120,Normal,163,No,0.0,No depression,Upsloping,1,Normal,No disease
+54,mid-aged,male,Asymptomatic,122,Elevated,286,High,5.3,<120,LV hypertrophy,116,Yes,3.2,Very Severe,Flat,2,Normal,Severe
+56,mid-aged,male,Asymptomatic,130,HTN-1,283,High,5.05,>120,LV hypertrophy,103,Yes,1.6,Moderate,Downsloping,0,Reversible defect,Moderate
+46,mid-aged,male,Asymptomatic,120,Elevated,249,High,5.41,<120,LV hypertrophy,144,No,0.8,Mild,Upsloping,0,Reversible defect,Mild
+49,mid-aged,female,Atypical angina,134,HTN-1,271,High,5.53,<120,Normal,162,No,0.0,No depression,Flat,0,Normal,No disease
+42,mid-aged,male,Atypical angina,120,Elevated,295,High,7.02,<120,Normal,162,No,0.0,No depression,Upsloping,0,Normal,No disease
+41,mid-aged,male,Atypical angina,110,Normal,235,Modrate,5.73,<120,Normal,153,No,0.0,No depression,Upsloping,0,Normal,No disease
+41,mid-aged,female,Atypical angina,126,Elevated,306,High,7.46,<120,Normal,163,No,0.0,No depression,Upsloping,0,Normal,No disease
+49,mid-aged,female,Asymptomatic,130,HTN-1,269,High,5.49,<120,Normal,163,No,0.0,No depression,Upsloping,0,Normal,No disease
+61,aged,male,Typical angina,134,HTN-1,234,Modrate,3.84,<120,Normal,145,No,2.6,Severe,Flat,2,Normal,Moderate
+60,mid-aged,female,Non-anginal pain,120,Elevated,178,Normal,2.97,>120,Normal,96,No,0.0,No depression,Upsloping,0,Normal,No disease
+67,aged,male,Asymptomatic,120,Elevated,237,Modrate,3.54,<120,Normal,71,No,1.0,Mild,Flat,0,Normal,Moderate
+58,mid-aged,male,Asymptomatic,100,Normal,234,Modrate,4.03,<120,Normal,156,No,0.1,Mild,Upsloping,1,Reversible defect,Moderate
+47,mid-aged,male,Asymptomatic,110,Normal,275,High,5.85,<120,LV hypertrophy,118,Yes,1.0,Mild,Flat,1,Normal,Mild
+52,mid-aged,male,Asymptomatic,125,Elevated,212,Modrate,4.08,<120,Normal,168,No,1.0,Mild,Upsloping,2,Reversible defect,Severe
+62,aged,male,Atypical angina,128,Elevated,208,Modrate,3.35,>120,LV hypertrophy,140,No,0.0,No depression,Upsloping,0,Normal,No disease
+57,mid-aged,male,Asymptomatic,110,Normal,201,Modrate,3.53,<120,Normal,126,Yes,1.5,Moderate,Flat,0,Fixed defect,No disease
+58,mid-aged,male,Asymptomatic,146,HTN-2,218,Modrate,3.76,<120,Normal,105,No,2.0,Moderate,Flat,1,Reversible defect,Mild
+64,aged,male,Asymptomatic,128,Elevated,263,High,4.11,<120,Normal,105,Yes,0.2,Mild,Flat,1,Reversible defect,No disease
+51,mid-aged,female,Non-anginal pain,120,Elevated,295,High,5.78,<120,LV hypertrophy,157,No,0.6,Mild,Upsloping,0,Normal,No disease
+43,mid-aged,male,Asymptomatic,115,Normal,303,High,7.05,<120,Normal,181,No,1.2,Moderate,Flat,0,Normal,No disease
+42,mid-aged,female,Non-anginal pain,120,Elevated,209,Modrate,4.98,<120,Normal,173,No,0.0,No depression,Flat,0,Normal,No disease
+67,aged,female,Asymptomatic,106,Normal,223,Modrate,3.33,<120,Normal,142,No,0.3,Mild,Upsloping,2,Normal,No disease
+76,aged,female,Non-anginal pain,140,HTN-2,197,Normal,2.59,<120,ST-T Abnormal,116,No,1.1,Moderate,Flat,0,Normal,No disease
+70,aged,male,Atypical angina,156,HTN-2,245,High,3.5,<120,LV hypertrophy,143,No,0.0,No depression,Upsloping,0,Normal,No disease
+57,mid-aged,male,Atypical angina,124,Elevated,261,High,4.58,<120,Normal,141,No,0.3,Mild,Upsloping,0,Reversible defect,Mild
+44,mid-aged,female,Non-anginal pain,118,Normal,242,High,5.5,<120,Normal,149,No,0.3,Mild,Flat,1,Normal,No disease
+58,mid-aged,female,Atypical angina,136,HTN-1,319,High,5.5,>120,LV hypertrophy,152,No,0.0,No depression,Upsloping,2,Normal,Severe
+60,mid-aged,female,Typical angina,150,HTN-2,240,High,4.0,<120,Normal,171,No,0.9,Mild,Upsloping,0,Normal,No disease
+44,mid-aged,male,Non-anginal pain,120,Elevated,226,Modrate,5.14,<120,Normal,169,No,0.0,No depression,Upsloping,0,Normal,No disease
+61,aged,male,Asymptomatic,138,HTN-1,166,Normal,2.72,<120,LV hypertrophy,125,Yes,3.6,Very Severe,Flat,1,Normal,Very Severe
+42,mid-aged,male,Asymptomatic,136,HTN-1,315,High,7.5,<120,Normal,125,Yes,1.8,Moderate,Flat,0,Fixed defect,Moderate
+52,mid-aged,male,Asymptomatic,128,Elevated,204,Modrate,3.92,>120,Normal,156,Yes,1.0,Mild,Flat,0,Other,Moderate
+59,mid-aged,male,Non-anginal pain,126,Elevated,218,Modrate,3.69,>120,Normal,134,No,2.2,Severe,Flat,1,Fixed defect,Moderate
+40,adult,male,Asymptomatic,152,HTN-2,223,Modrate,5.58,<120,Normal,181,No,0.0,No depression,Upsloping,0,Reversible defect,Mild
+42,mid-aged,male,Non-anginal pain,130,HTN-1,180,Normal,4.29,<120,Normal,150,No,0.0,No depression,Upsloping,0,Normal,No disease
+61,aged,male,Asymptomatic,140,HTN-2,207,Modrate,3.39,<120,LV hypertrophy,138,Yes,1.9,Moderate,Upsloping,1,Reversible defect,Mild
+66,aged,male,Asymptomatic,160,HTN-2,228,Modrate,3.45,<120,LV hypertrophy,138,No,2.3,Severe,Upsloping,0,Fixed defect,No disease
+46,mid-aged,male,Asymptomatic,140,HTN-2,311,High,6.76,<120,Normal,120,Yes,1.8,Moderate,Flat,2,Reversible defect,Moderate
+71,aged,female,Asymptomatic,112,Normal,149,Normal,2.1,<120,Normal,125,No,1.6,Moderate,Flat,0,Normal,No disease
+59,mid-aged,male,Typical angina,134,HTN-1,204,Modrate,3.46,<120,Normal,162,No,0.8,Mild,Upsloping,2,Normal,Mild
+64,aged,male,Typical angina,170,HTN-2,227,Modrate,3.55,<120,LV hypertrophy,155,No,0.6,Mild,Flat,0,Reversible defect,No disease
+66,aged,female,Non-anginal pain,146,HTN-2,278,High,4.21,<120,LV hypertrophy,152,No,0.0,No depression,Flat,1,Normal,No disease
+39,adult,female,Non-anginal pain,138,HTN-1,220,Modrate,5.64,<120,Normal,152,No,0.0,No depression,Flat,0,Normal,No disease
+57,mid-aged,male,Atypical angina,154,HTN-2,232,Modrate,4.07,<120,LV hypertrophy,164,No,0.0,No depression,Upsloping,1,Normal,Mild
+58,mid-aged,female,Asymptomatic,130,HTN-1,197,Normal,3.4,<120,Normal,131,No,0.6,Mild,Flat,0,Normal,No disease
+57,mid-aged,male,Asymptomatic,110,Normal,335,High,5.88,<120,Normal,143,Yes,3.0,Severe,Flat,1,Reversible defect,Moderate
+47,mid-aged,male,Non-anginal pain,130,HTN-1,253,High,5.38,<120,Normal,179,No,0.0,No depression,Upsloping,0,Normal,No disease
+55,mid-aged,female,Asymptomatic,128,Elevated,205,Modrate,3.73,<120,ST-T Abnormal,130,Yes,2.0,Moderate,Flat,1,Reversible defect,Severe
+35,adult,male,Atypical angina,122,Elevated,192,Normal,5.49,<120,Normal,174,No,0.0,No depression,Upsloping,0,Normal,No disease
+61,aged,male,Asymptomatic,148,HTN-2,203,Modrate,3.33,<120,Normal,161,No,0.0,No depression,Upsloping,1,Reversible defect,Moderate
+58,mid-aged,male,Asymptomatic,114,Normal,318,High,5.48,<120,ST-T Abnormal,140,No,4.4,Very Severe,Downsloping,3,Fixed defect,Very Severe
+58,mid-aged,female,Asymptomatic,170,HTN-2,225,Modrate,3.88,>120,LV hypertrophy,146,Yes,2.8,Severe,Flat,2,Fixed defect,Moderate
+58,mid-aged,male,Atypical angina,125,Elevated,220,Modrate,3.79,<120,Normal,144,No,0.4,Mild,Flat,1,Reversible defect,No disease
+56,mid-aged,male,Atypical angina,130,HTN-1,221,Modrate,3.95,<120,LV hypertrophy,163,No,0.0,No depression,Upsloping,0,Reversible defect,No disease
+56,mid-aged,male,Atypical angina,120,Elevated,240,High,4.29,<120,Normal,169,No,0.0,No depression,Downsloping,0,Normal,No disease
+67,aged,male,Non-anginal pain,152,HTN-2,212,Modrate,3.16,<120,LV hypertrophy,150,No,0.8,Mild,Flat,0,Reversible defect,Mild
+55,mid-aged,female,Atypical angina,132,HTN-1,342,High,6.22,<120,Normal,166,No,1.2,Moderate,Upsloping,0,Normal,No disease
+44,mid-aged,male,Asymptomatic,120,Elevated,169,Normal,3.84,<120,Normal,144,Yes,2.8,Severe,Downsloping,0,Fixed defect,Moderate
+63,aged,male,Asymptomatic,140,HTN-2,187,Normal,2.97,<120,LV hypertrophy,144,Yes,4.0,Very Severe,Upsloping,2,Reversible defect,Moderate
+63,aged,female,Asymptomatic,124,Elevated,197,Normal,3.13,<120,Normal,136,Yes,0.0,No depression,Flat,0,Normal,Mild
+41,mid-aged,male,Atypical angina,120,Elevated,157,Normal,3.83,<120,Normal,182,No,0.0,No depression,Upsloping,0,Normal,No disease
+59,mid-aged,male,Asymptomatic,164,HTN-2,176,Normal,2.98,>120,LV hypertrophy,90,No,1.0,Mild,Flat,2,Fixed defect,Severe
+57,mid-aged,female,Asymptomatic,140,HTN-2,241,High,4.23,<120,Normal,123,Yes,0.2,Mild,Flat,0,Reversible defect,Mild
+45,mid-aged,male,Typical angina,110,Normal,264,High,5.87,<120,Normal,132,No,1.2,Moderate,Flat,0,Reversible defect,Mild
+68,aged,male,Asymptomatic,144,HTN-2,193,Normal,2.84,>120,Normal,141,No,3.4,Very Severe,Flat,2,Reversible defect,Moderate
+57,mid-aged,male,Asymptomatic,130,HTN-1,131,Normal,2.3,<120,Normal,115,Yes,1.2,Moderate,Flat,1,Reversible defect,Severe
+57,mid-aged,female,Atypical angina,130,HTN-1,236,Modrate,4.14,<120,LV hypertrophy,174,No,0.0,No depression,Flat,1,Normal,Mild
+38,adult,male,Non-anginal pain,138,HTN-1,175,Normal,4.61,<120,Normal,173,No,0.0,No depression,Upsloping,1,Normal,No disease

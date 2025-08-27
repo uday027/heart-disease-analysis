@@ -1,0 +1,19 @@
+quick breakdown
+
+| Column     | Looks numeric? | Actual meaning                                       |
+| ---------- | -------------- | ---------------------------------------------------- |
+| age        | ✅ continuous   | real age in years                                    |
+| sex        | ✅ binary code  | 1 = male, 0 = female                                 |
+| cp         | ✅ code 0–3     | chest pain type categories                           |
+| trestbps   | ✅ continuous   | resting blood pressure (mm Hg)                       |
+| chol       | ✅ continuous   | cholesterol (mg/dl)                                  |
+| fbs        | ✅ binary code  | fasting blood sugar >120 mg/dl (1 = true, 0 = false) |
+| restecg    | ✅ code 0–2     | resting ECG results                                  |
+| thalach    | ✅ continuous   | max heart rate achieved                              |
+| exang      | ✅ binary code  | exercise induced angina (1 = yes, 0 = no)            |
+| oldpeak    | ✅ continuous   | ST depression                                        |
+| slope      | ✅ code 0–2     | slope of ST segment                                  |
+| ca         | ✅ count 0–3    | number of major vessels colored                      |
+| thal       | ✅ code (3,6,7) | thalassemia type                                     |
+| num/target | ✅ code 0–4     | presence of disease (0 = no disease, 1–4 = yes)      |
+
