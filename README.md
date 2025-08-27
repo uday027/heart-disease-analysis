@@ -43,5 +43,6 @@ heart.ipynb → Main analysis notebook
 images/ → Exported plots (bar chart, pie charts, heatmap, etc.)
 
 🎯 Conclusion
-This project demonstrates how EDA on medical datasets can uncover meaningful patterns in patient data. The insights highlight gender differences, risk factor trends, and severity progression, providing a strong foundation for future predictive modeling and healthcare analytics.
+This project demonstrates how exploratory data analysis (EDA) on medical datasets can uncover meaningful patterns in patient health data. The findings highlight gender differences, critical risk factor trends, and disease severity progression, offering actionable insights for clinicians and researchers. These insights provide a strong foundation for future predictive modeling, early detection systems, and data-driven healthcare decision-making.
+
 
